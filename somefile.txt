@@ -4,3 +4,4 @@ branch two - commit 1
 branch two - commit 2
 branch three - commit 1
 branch three - commit 2
+branch four - commit 1
